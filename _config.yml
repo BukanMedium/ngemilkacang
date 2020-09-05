@@ -1,4 +1,5 @@
-
+# Permalinks
+permalink:           pretty
 
 # Setup
 title:               'Ngemil Kacang'
@@ -26,4 +27,4 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/bukanmedium/ngemilkacang
+  repo:              https://github.com/bradleytaunt/lightspeed
